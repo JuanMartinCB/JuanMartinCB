@@ -17,3 +17,11 @@ En este repositorio, podes encontrar proyectos que he completado a lo largo de m
 ### Circuitos Digitales y Microcontroladores
   * [Controlador de Secuencias LED](https://github.com/JuanMartinCB/CDyM-LED-Sequence-Controller-Microcontroller-Programming): Proyecto de microcontrolador AVR que implementa tres secuencias diferentes de iluminación LED con cambio controlado por usuario mediante pulsadores, desarrollado en Microchip Studio y simulado en Proteus.
   * [Periféricos de Microcontrolador y Sistema en Tiempo Real](https://github.com/JuanMartinCB/CDyM-Microcontroller-Peripherals-Real-Time-System): Proyecto integral de microcontrolador AVR que incluye control de display LCD, interfaz con teclado matricial 4x4, manejo de interrupciones, planificación basada en temporizadores, máquinas de estado finito e implementación de reloj en tiempo real, desarrollado en Microchip Studio y simulado en Proteus.
+
+### Ingeniería de Software 
+* [Webapp para el alquiler de autos](): Aplicación web desarrollada en Ruby on Rails (frontend con Bootstrap) con sistema de login, verificación de documentos, billetera digital integrada con MercadoPago, panel administrativo para gestión de vehóculos y empleados, almacenamiento de imágenes en base de datos Amazon, y mapa interactivo de La Plata para visualización de vehículos disponibles. Proyecto desarrollado utilizando metodología ágil Scrum con participación activa del cliente.
+
+## Cursos:
+
+### Argentina Programa 
+* [Pagina Web](https://github.com/JuanMartinCB/Argentina-Programa): Página web desarrollada con HTML, CSS y JavaScript vanilla, incluyendo consumo de API básica para gestión de sección de comentarios
