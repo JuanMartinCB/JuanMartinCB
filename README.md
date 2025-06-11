@@ -1,8 +1,8 @@
-# Bienvenido! 👋 : 
+# Bienvenido! 👋
 
 [English](https://github.com/JuanMartinCB/JuanMartinCB-en-)
 
-Soy un estudiante de Ingeniería en Computación en el último año de carrera en la universidad de Ingeniería e Informática, Universidad Nacional de La Plata (UNLP).
+Soy un estudiante de Ingeniería en Computación en el último año de carrera en la Facultad de Ingeniería e Informática, Universidad Nacional de La Plata (UNLP).
 
 En este repositorio, podes encontrar proyectos que he completado a lo largo de mi carrera universitaria. Estos trabajos muestran mi desarrollo en varias áreas de la ingeniería en computación y el desarrollo de software. 
 
