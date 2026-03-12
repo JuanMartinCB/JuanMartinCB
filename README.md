@@ -11,20 +11,23 @@ En este repositorio, podes encontrar proyectos que he completado a lo largo de m
 
 ## Proyectos en mi carrera:
 
-### Java y Aplicaciones Avanzadas
+### Java y Aplicaciones Avanzadas - 2025
   * [ProyectoASIS](https://github.com/JuanMartinCB/Aplicacion-web-para-centro-de-salud-ASIS-): Aplicación web para gestión integral de un centro de salud. Implementación de arquitectura MVC con persistencia Hibernate/JPA, autenticación por roles y geolocalización mediante APIs externas.
 
-### Taller de proyecto I
+### Taller de proyecto I - 2025
   * [Dispenser de comida automático](https://github.com/rmanuelx5/Taller-de-proyecto-1): Implementación de drivers de bajo nivel para servomotores, displays y
 celdas de carga, e interfaz de control remota para programación de horarios y monitoreo de porciones.
 
-### Taller de proyecto II
+### Taller de proyecto II - 2024
   * [Reconocimiento Facial](https://github.com/tpII/2024-G2-RECONOCIMIENTO-FACIAL): Sistema de seguridad basado en ESP32 con detección de movimiento, reconocimiento facial usando APIs de IA, monitoreo web en tiempo real mediante aplicación Flask, protocolo de comunicación MQTT, y base de datos PostgreSQL con embeddings vectoriales para almacenamiento y análisis de imágenes, desarrollado en lenguaje C y Arduino.
 
-### Ingeniería de Software 
+### Ingeniería de Software 2022
 * [Webapp para el alquiler de autos](https://github.com/JuanMartinCB/Alquilapp/tree/master): Aplicación web desarrollada en Ruby on Rails (frontend con Bootstrap) con sistema de login, verificación de documentos, billetera digital integrada con MercadoPago, panel administrativo para gestión de vehículos y empleados, almacenamiento de imágenes en base de datos Amazon, y mapa interactivo de La Plata para visualización de vehículos disponibles. Proyecto desarrollado utilizando metodología ágil Scrum con participación activa del cliente.
+
+### Taller de Lenguajes II - 2021
+* [Sistema gestor CRUD](https://github.com/JuanMartinCB/Gestor-de-olimpiadas): Aplicación Java de escritorio para administración de usuarios y disciplinas olímpicas. Implementación de CRUD completo con gestión de roles, generación de reportes y exportación de datos a formato Excel.
 
 ## Cursos:
 
-### Argentina Programa 
+### Argentina Programa - 2023
 * [Pagina Web](https://github.com/JuanMartinCB/Argentina-Programa): Página web desarrollada con HTML, CSS y JavaScript vanilla, incluyendo consumo de API básica para gestión de sección de comentarios.
